@@ -1,0 +1,20 @@
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\bin\Debug\Csharp Arduino DHT22 Sensor Monitoring.exe.config
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\bin\Debug\Csharp Arduino DHT22 Sensor Monitoring.exe
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\bin\Debug\Csharp Arduino DHT22 Sensor Monitoring.pdb
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\obj\Debug\Csharp_Arduino_DHT22_Sensor_Monitoring.Form1.resources
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\obj\Debug\Csharp_Arduino_DHT22_Sensor_Monitoring.Properties.Resources.resources
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.exe
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.pdb
+C:\Users\joseph\Desktop\Csharp Arduino DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.csproj.AssemblyReference.cache
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\bin\Debug\Csharp Arduino DHT22 Sensor Monitoring.exe.config
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\bin\Debug\Csharp Arduino DHT22 Sensor Monitoring.exe
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\bin\Debug\Csharp Arduino DHT22 Sensor Monitoring.pdb
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.csproj.AssemblyReference.cache
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\obj\Debug\Csharp_Arduino_DHT22_Sensor_Monitoring.Form1.resources
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\obj\Debug\Csharp_Arduino_DHT22_Sensor_Monitoring.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.exe
+C:\Users\LAB523-1\Desktop\DHT22_Sensor\Csharp DHT22 Sensor Monitoring\obj\Debug\Csharp Arduino DHT22 Sensor Monitoring.pdb
